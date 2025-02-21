@@ -1,1 +1,1 @@
-const sayHello = () => { return 'hi'; };
+const sayHello = () => { console.log('hi'); };
